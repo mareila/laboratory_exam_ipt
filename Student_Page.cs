@@ -1,5 +1,3 @@
-﻿// Assuming using C# with Windows Forms and MySql.Data NuGet package
-
 using System;
 using System.Data;
 using System.Drawing;
@@ -169,4 +167,4 @@ namespace LabExamMendozaMariela
         // private System.Windows.Forms.DataGridView StudentListDataGridView;
 
     } // End of partial class Student_Page
-} // End of namespace VelascoArjay_LabExam
+}
