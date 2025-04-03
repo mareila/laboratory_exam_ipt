@@ -1,4 +1,4 @@
-namespace VelascoArjay_LabExam
+namespace LabExamMendozaMariela
 {
     internal static class Program
     {
